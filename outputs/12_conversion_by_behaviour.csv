@@ -1,0 +1,46 @@
+month,segment,leads,sales
+2026-07,"01 ALL leads (Bq_data_Alumni, dupe_logic=1)",10654,288
+2026-07,02 PII submitted (S3),9668,268
+2026-07,03 PII but never reached S6,9250,241
+2026-07,04 Reached S6,418,27
+2026-07,05 S6 + slot selected,262,22
+2026-07,06 S6 + no slot,156,5
+2026-07,07 S6 + resume clicked,122,7
+2026-07,08 S6 + no resume click,296,20
+2026-07,09 S6 + resume uploaded,60,5
+2026-07,"10 S6 + clicked, not uploaded",63,2
+2026-07,11 S6 + not uploaded,358,22
+2026-07,12 S6 + submitted (S7),355,25
+2026-07,13 S6 + not submitted,63,2
+2026-07,14 S6 + slot AND uploaded,54,5
+2026-07,"15 S6 + no slot, no resume click",133,4
+2026-08,"01 ALL leads (Bq_data_Alumni, dupe_logic=1)",10914,223
+2026-08,02 PII submitted (S3),7433,165
+2026-08,03 PII but never reached S6,1954,17
+2026-08,04 Reached S6,5482,148
+2026-08,05 S6 + slot selected,3142,110
+2026-08,06 S6 + no slot,2340,38
+2026-08,07 S6 + resume clicked,1184,36
+2026-08,08 S6 + no resume click,4298,112
+2026-08,09 S6 + resume uploaded,564,22
+2026-08,"10 S6 + clicked, not uploaded",628,15
+2026-08,11 S6 + not uploaded,4918,126
+2026-08,12 S6 + submitted (S7),4529,131
+2026-08,13 S6 + not submitted,953,17
+2026-08,14 S6 + slot AND uploaded,475,20
+2026-08,"15 S6 + no slot, no resume click",2093,34
+2026-09,"01 ALL leads (Bq_data_Alumni, dupe_logic=1)",8080,130
+2026-09,02 PII submitted (S3),6125,98
+2026-09,03 PII but never reached S6,1292,12
+2026-09,04 Reached S6,4834,86
+2026-09,05 S6 + slot selected,2671,63
+2026-09,06 S6 + no slot,2163,23
+2026-09,07 S6 + resume clicked,1036,32
+2026-09,08 S6 + no resume click,3798,54
+2026-09,09 S6 + resume uploaded,489,18
+2026-09,"10 S6 + clicked, not uploaded",561,15
+2026-09,11 S6 + not uploaded,4345,68
+2026-09,12 S6 + submitted (S7),3990,80
+2026-09,13 S6 + not submitted,844,6
+2026-09,14 S6 + slot AND uploaded,406,16
+2026-09,"15 S6 + no slot, no resume click",1922,19

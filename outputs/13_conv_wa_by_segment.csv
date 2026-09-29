@@ -1,0 +1,73 @@
+month,segment,leads,sales,att,reg_held,att_held
+2026-07,A00 ALL leads (overall),10654,288,5192,10654,5192
+2026-07,A01 Reached S6,418,27,251,418,251
+2026-07,B01 S6 + touched no input,120,3,60,120,60
+2026-07,B02 S6 + exactly one input,128,10,81,128,81
+2026-07,B03   one input = slot only,106,8,65,106,65
+2026-07,B04   one input = LinkedIn only,13,1,10,13,10
+2026-07,B05   one input = resume click only,9,1,6,9,6
+2026-07,B06 S6 + exactly two inputs,100,9,57,100,57
+2026-07,B07 S6 + all three inputs,70,5,53,70,53
+2026-07,C01 S6 + slot selected,262,22,169,262,169
+2026-07,C02 S6 + no slot,156,5,82,156,82
+2026-07,C03 S6 + LinkedIn added,154,14,104,154,104
+2026-07,C04 S6 + no LinkedIn,264,13,147,264,147
+2026-07,C05 S6 + resume clicked,122,7,81,122,81
+2026-07,C06 S6 + no resume click,296,20,170,296,170
+2026-07,C07 S6 + resume uploaded,60,5,45,60,45
+2026-07,"C08 S6 + clicked, not uploaded",63,2,37,63,37
+2026-07,C09 S6 + not uploaded,358,22,206,358,206
+2026-07,D01 Completed S6 -> submitted S7,355,25,224,355,224
+2026-07,D02 Completed S6 -> dropped (no S7),63,2,27,63,27
+2026-07,D03 Completed S5 -> reached S6,418,27,251,418,251
+2026-07,D04 Completed S5 -> dropped (no S6),8090,228,4158,8090,4158
+2026-07,D05 Completed S4 -> reached S5,8506,255,4408,8506,4408
+2026-07,D06 Completed S4 -> dropped (no S5),1193,13,444,1193,444
+2026-08,A00 ALL leads (overall),10914,223,5185,10914,5185
+2026-08,A01 Reached S6,5482,148,2747,5482,2747
+2026-08,B01 S6 + touched no input,1936,32,874,1936,874
+2026-08,B02 S6 + exactly one input,1833,57,906,1833,906
+2026-08,B03   one input = slot only,1569,53,789,1569,789
+2026-08,B04   one input = LinkedIn only,157,2,78,157,78
+2026-08,B05   one input = resume click only,107,2,39,107,39
+2026-08,B06 S6 + exactly two inputs,989,31,536,989,536
+2026-08,B07 S6 + all three inputs,724,28,431,724,431
+2026-08,C01 S6 + slot selected,3142,110,1686,3142,1686
+2026-08,C02 S6 + no slot,2340,38,1061,2340,1061
+2026-08,C03 S6 + LinkedIn added,1657,57,936,1657,936
+2026-08,C04 S6 + no LinkedIn,3825,91,1811,3825,1811
+2026-08,C05 S6 + resume clicked,1184,36,649,1184,649
+2026-08,C06 S6 + no resume click,4298,112,2098,4298,2098
+2026-08,C07 S6 + resume uploaded,563,22,317,563,317
+2026-08,"C08 S6 + clicked, not uploaded",628,15,334,628,334
+2026-08,C09 S6 + not uploaded,4919,126,2430,4919,2430
+2026-08,D01 Completed S6 -> submitted S7,4529,131,2404,4529,2404
+2026-08,D02 Completed S6 -> dropped (no S7),953,17,343,953,343
+2026-08,D03 Completed S5 -> reached S6,5480,148,2747,5480,2747
+2026-08,D04 Completed S5 -> dropped (no S6),1495,14,747,1495,747
+2026-08,D05 Completed S4 -> reached S5,6973,162,3493,6973,3493
+2026-08,D06 Completed S4 -> dropped (no S5),468,3,119,468,119
+2026-09,A00 ALL leads (overall),8087,130,3359,6744,3002
+2026-09,A01 Reached S6,4834,86,2136,3991,1851
+2026-09,B01 S6 + touched no input,1758,18,675,1409,578
+2026-09,B02 S6 + exactly one input,1654,24,776,1376,684
+2026-09,B03   one input = slot only,1365,22,643,1131,569
+2026-09,B04   one input = LinkedIn only,164,1,76,141,62
+2026-09,B05   one input = resume click only,125,1,57,104,53
+2026-09,B06 S6 + exactly two inputs,813,17,362,688,309
+2026-09,B07 S6 + all three inputs,609,27,323,518,280
+2026-09,C01 S6 + slot selected,2671,63,1275,2242,1115
+2026-09,C02 S6 + no slot,2163,23,861,1749,736
+2026-09,C03 S6 + LinkedIn added,1400,44,675,1185,573
+2026-09,C04 S6 + no LinkedIn,3434,42,1461,2806,1278
+2026-09,C05 S6 + resume clicked,1036,32,519,879,454
+2026-09,C06 S6 + no resume click,3798,54,1617,3112,1397
+2026-09,C07 S6 + resume uploaded,485,18,269,399,232
+2026-09,"C08 S6 + clicked, not uploaded",563,15,260,489,229
+2026-09,C09 S6 + not uploaded,4349,68,1867,3592,1619
+2026-09,D01 Completed S6 -> submitted S7,3990,80,1894,3297,1642
+2026-09,D02 Completed S6 -> dropped (no S7),844,6,242,694,209
+2026-09,D03 Completed S5 -> reached S6,4834,86,2136,3991,1851
+2026-09,D04 Completed S5 -> dropped (no S6),884,6,319,690,311
+2026-09,D05 Completed S4 -> reached S5,5718,92,2455,4681,2162
+2026-09,D06 Completed S4 -> dropped (no S5),427,6,108,349,98

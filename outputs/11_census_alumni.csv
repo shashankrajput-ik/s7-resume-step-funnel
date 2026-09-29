@@ -1,0 +1,16 @@
+k,month,v,n,sales,ids
+dist_dl1,2026-07,rows|sales|ids|null_ids,12809,321,10495
+dist_dl1,2026-08,rows|sales|ids|null_ids,16067,251,11704
+dist_dl1,2026-09,rows|sales|ids|null_ids,10777,150,8464
+match_hs_any_month_any,2026-07,,418,,
+match_hs_any_month_any,2026-08,,5487,,
+match_hs_any_month_any,2026-09,,4842,,
+match_hs_same_month_dl1,2026-07,,415,,
+match_hs_same_month_dl1,2026-08,,5473,,
+match_hs_same_month_dl1,2026-09,,4839,,
+match_userid_same_month_dl1,2026-07,,418,,
+match_userid_same_month_dl1,2026-08,,5482,,
+match_userid_same_month_dl1,2026-09,,4834,,
+s6_users,2026-07,,421,,
+s6_users,2026-08,,5529,,
+s6_users,2026-09,,4873,,

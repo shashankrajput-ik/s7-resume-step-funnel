@@ -1,0 +1,76 @@
+period,segment,users,sales,attended,reg_held,att_held
+2026-08,A00 All registrations (reached S4) = overall,7441,165,3612,7441,3612
+2026-08,A01 Reached S6,5482,148,2747,5482,2747
+2026-08,B01 S6 + touched no input,1936,32,874,1936,874
+2026-08,B02 S6 + exactly one input,1833,57,906,1833,906
+2026-08,B03 one input = slot only,1569,53,789,1569,789
+2026-08,B04 one input = LinkedIn only,157,2,78,157,78
+2026-08,B05 one input = resume click only,107,2,39,107,39
+2026-08,B06 S6 + exactly two inputs,989,31,536,989,536
+2026-08,B07 S6 + all three inputs,724,28,431,724,431
+2026-08,C01 S6 + slot selected,3142,110,1686,3142,1686
+2026-08,C02 S6 + no slot,2340,38,1061,2340,1061
+2026-08,C03 S6 + LinkedIn added,1657,57,936,1657,936
+2026-08,C04 S6 + no LinkedIn,3825,91,1811,3825,1811
+2026-08,C05 S6 + resume clicked,1184,36,649,1184,649
+2026-08,C06 S6 + no resume click,4298,112,2098,4298,2098
+2026-08,C07 S6 + resume uploaded (<=2h),565,22,319,565,319
+2026-08,"C08 S6 + clicked, not uploaded",626,15,332,626,332
+2026-08,C09 S6 + not uploaded,4917,126,2428,4917,2428
+2026-08,D01 Completed S6 -> submitted S7,4529,131,2404,4529,2404
+2026-08,D02 Completed S6 -> dropped (no S7),953,17,343,953,343
+2026-08,D03 Completed S5 -> reached S6,5480,148,2747,5480,2747
+2026-08,D04 Completed S5 -> dropped (no S6),1495,14,747,1495,747
+2026-08,D05 Completed S4 -> reached S5,6973,162,3493,6973,3493
+2026-08,D06 Completed S4 -> dropped (no S5),468,3,119,468,119
+2026-08,"Z01 Reached S4, before lead match",7541,,,,
+2026-09,A00 All registrations (reached S4) = overall,6145,98,2563,5030,2260
+2026-09,A01 Reached S6,4834,86,2136,3991,1851
+2026-09,B01 S6 + touched no input,1758,18,675,1409,578
+2026-09,B02 S6 + exactly one input,1654,24,776,1376,684
+2026-09,B03 one input = slot only,1365,22,643,1131,569
+2026-09,B04 one input = LinkedIn only,164,1,76,141,62
+2026-09,B05 one input = resume click only,125,1,57,104,53
+2026-09,B06 S6 + exactly two inputs,813,17,362,688,309
+2026-09,B07 S6 + all three inputs,609,27,323,518,280
+2026-09,C01 S6 + slot selected,2671,63,1275,2242,1115
+2026-09,C02 S6 + no slot,2163,23,861,1749,736
+2026-09,C03 S6 + LinkedIn added,1400,44,675,1185,573
+2026-09,C04 S6 + no LinkedIn,3434,42,1461,2806,1278
+2026-09,C05 S6 + resume clicked,1036,32,519,879,454
+2026-09,C06 S6 + no resume click,3798,54,1617,3112,1397
+2026-09,C07 S6 + resume uploaded (<=2h),490,19,273,402,235
+2026-09,"C08 S6 + clicked, not uploaded",558,14,256,486,226
+2026-09,C09 S6 + not uploaded,4344,67,1863,3589,1616
+2026-09,D01 Completed S6 -> submitted S7,3990,80,1894,3297,1642
+2026-09,D02 Completed S6 -> dropped (no S7),844,6,242,694,209
+2026-09,D03 Completed S5 -> reached S6,4834,86,2136,3991,1851
+2026-09,D04 Completed S5 -> dropped (no S6),884,6,319,690,311
+2026-09,D05 Completed S4 -> reached S5,5718,92,2455,4681,2162
+2026-09,D06 Completed S4 -> dropped (no S5),427,6,108,349,98
+2026-09,"Z01 Reached S4, before lead match",6211,,,,
+Aug+Sep,A00 All registrations (reached S4) = overall,13387,264,6104,12298,5805
+Aug+Sep,A01 Reached S6,10232,235,4852,9400,4570
+Aug+Sep,B01 S6 + touched no input,3646,50,1529,3303,1433
+Aug+Sep,B02 S6 + exactly one input,3462,81,1673,3188,1582
+Aug+Sep,B03 one input = slot only,2915,75,1426,2684,1352
+Aug+Sep,B04 one input = LinkedIn only,318,3,152,296,139
+Aug+Sep,B05 one input = resume click only,229,3,95,208,91
+Aug+Sep,B06 S6 + exactly two inputs,1794,49,895,1670,843
+Aug+Sep,B07 S6 + all three inputs,1330,55,755,1239,712
+Aug+Sep,C01 S6 + slot selected,5785,174,2953,5360,2794
+Aug+Sep,C02 S6 + no slot,4447,61,1899,4040,1776
+Aug+Sep,C03 S6 + LinkedIn added,3046,102,1609,2832,1508
+Aug+Sep,C04 S6 + no LinkedIn,7186,133,3243,6568,3062
+Aug+Sep,C05 S6 + resume clicked,2209,68,1166,2053,1102
+Aug+Sep,C06 S6 + no resume click,8023,167,3686,7347,3468
+Aug+Sep,C07 S6 + resume uploaded (<=2h),1049,42,591,961,553
+Aug+Sep,"C08 S6 + clicked, not uploaded",1179,29,587,1108,558
+Aug+Sep,C09 S6 + not uploaded,9183,193,4261,8439,4017
+Aug+Sep,D01 Completed S6 -> submitted S7,8455,212,4270,7772,4021
+Aug+Sep,D02 Completed S6 -> dropped (no S7),1777,23,582,1628,549
+Aug+Sep,D03 Completed S5 -> reached S6,10230,235,4852,9398,4570
+Aug+Sep,D04 Completed S5 -> dropped (no S6),2290,20,1033,2106,1025
+Aug+Sep,D05 Completed S4 -> reached S5,12519,255,5884,11503,5594
+Aug+Sep,D06 Completed S4 -> dropped (no S5),868,9,220,795,211
+Aug+Sep,"Z01 Reached S4, before lead match",13546,,,,

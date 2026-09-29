@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# one real user's uuid + hubspot id
+sql/00_example_student.sql
+outputs/00_example_student.csv
